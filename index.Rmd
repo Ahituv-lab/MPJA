@@ -5,8 +5,8 @@ output: html_document
 
 # My Table
 
-Click [here](assets/my_table.csv) to download my table.
+Click [here](assets/6b-jumping-plasmid_results_w0.txt) to download my table.
 
 # My Figure
 
-![My Figure](assets/my_figure.png)
+![My Figure](assets/6B_haplo_highlight.png)
