@@ -1,10 +1,12 @@
 ---
 title: "MPJA website"
-output:
-  html_document:
-    theme: jekyll
-    self_contained: false
+output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+# My Table
+
+Click [here](assets/my_table.csv) to download my table.
+
+# My Figure
+
+![My Figure](assets/my_figure.png)
