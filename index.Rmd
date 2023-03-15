@@ -1,0 +1,10 @@
+---
+title: "MPJA website"
+output:
+  html_document:
+    theme: jekyll
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
