@@ -10,9 +10,9 @@ requirements:
       - entryname: R2.fastq.gz
         path: input/R2.fastq.gz
       - entryname: alu_lib.fa
-        path: lib/alu_lib.fa
+        path: lalu_lib.fa
       - entryname: parseBAMfield_fix.py
-        path: scr/parseBAMfield_fix.py
+        path: parseBAMfield_fix.py
       - entryname: pre_deseq.py
         path: pre_deseq.py
   - class: ResourceRequirement
