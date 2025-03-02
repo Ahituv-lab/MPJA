@@ -1,6 +1,6 @@
 # MPJA
 Custom scripts for Massively Parallel Jumping Assay analysis
-## MPJA pipeline
+## MPJA data processing pipeline
 pipeline.cwl
 ## ALU fasta library
 alu.fasta
