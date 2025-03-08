@@ -5,4 +5,4 @@ pipeline.cwl
 ## ALU fasta library
 alu.fasta
 ## Raw fastq files
-PRJNA1098913 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1047938)
+PRJNA1098913 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1098913)
